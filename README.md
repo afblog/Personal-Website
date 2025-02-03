@@ -1,1 +1,1 @@
-![](Thumbnail & Vibes.jpg)
+![](./Thumbnail & Vibes.jpg)
